@@ -16,7 +16,7 @@ public static User getById(int id){
 return users.get(id);
 }
 public static void add(User user){
-    users.put(user.getId(), user);
+//    users.put(user.getId(), user);
 }
 
 }
